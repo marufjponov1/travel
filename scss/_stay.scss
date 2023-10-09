@@ -1,0 +1,83 @@
+.stay {
+    margin-top: 149px;
+
+    &__h3 {
+        margin-left: 663px;
+        color: #222;
+        font-family: 'Montserrat';
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: -1.2px;
+    }
+
+    &__list {
+        display: flex;
+        flex-wrap: nowrap;
+        margin-left: 360px;
+        margin-top: 59px;
+    }
+
+    &__h2 {
+        color: #FFF;
+        font-family: ' Montserrat';
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: -1.05px;
+        padding-left: 47px;
+        padding-top: 525px;
+    }
+
+    &__item:nth-child(1) {
+        background-image: url(../img/Rectangle\ 19.png);
+        width: 620px;
+        height: 637px;
+        flex-shrink: 0;
+    }
+
+    &__item:nth-child(2) {
+        background-image: url(../img/Rectangle\ 20.png);
+        width: 620px;
+        height: 637px;
+        margin-left: 40px;
+        flex-shrink: 0;
+    }
+
+    &__item:nth-child(3) {
+        background-image: url(../img/Rectangle\ 21.png);
+        width: 620px;
+        height: 637px;
+        margin-left: -1280px;
+        margin-top: 700px;
+        flex-shrink: 0;
+    }
+
+    &__item:nth-child(4) {
+        background-image: url(../img/Rectangle\ 22.png);
+        width: 620px;
+        height: 637px;
+        flex-shrink: 0;
+        margin-top: 700px;
+        margin-left: 40px;
+    }
+
+}
+
+.quti__2{
+    width: 1920px;
+    height: 510px;
+    flex-shrink: 0;
+    background: #F6F4FF;
+    margin-top: 170px;
+}
+
+.box__2 {
+    width: 1920px;
+    height: 510px;
+    flex-shrink: 0;
+    background: #F6F4FF;
+    margin-top: 170px;
+}

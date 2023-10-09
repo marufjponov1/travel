@@ -1,0 +1,99 @@
+.footer{
+    padding-top: 107px;
+    padding-left: 100px;
+
+    &__list {
+        display: flex;
+    }
+
+    &__item {
+
+
+        margin-right: 170px;
+    }
+
+    &__h2 {
+        color: #000;
+        font-family: ' Montserrat';
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        margin-bottom: 69px;
+    }
+
+    &__p {
+        color: #000;
+        font-family: 'Montserrat';
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 40px;
+    }
+
+    &__contact {
+        margin-left: 1366px;
+        margin-top: -330px;
+    }
+
+    &__img1 {
+        margin-bottom: 30px;
+    }
+
+    &__v {
+        display: flex;
+        width: 454px;
+        height: 110px;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;
+        color: #898989;
+        font-family: 'Montserrat';
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: -0.5px;
+        margin-bottom: 29px;
+    }
+
+    &__img2 {
+        margin-right: 28px;
+
+    }
+
+    &__img3 {
+        margin-right: 28px;
+    }
+
+    &__i {
+        width: 1720px;
+        height: 1px;
+        margin-top: 116px;
+        margin-bottom: 365px;
+        background: rgba(170, 170, 170, 0.80);
+    }
+
+    .list {
+        display: flex;
+        width: 500px;
+        height: 60px;
+        margin-top: -330px;
+        margin-left: -15px;
+        margin-bottom: 284px;
+        justify-content: space-around;
+
+
+
+        .item a{
+            color: #6f6f6f;
+            font-family: 'Inter';
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+
+    }
+}

@@ -1,0 +1,46 @@
+.booking {
+    width: 1430px;
+    height: 713px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: url(../img/Rectangle\ 11\ \(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 273px;
+    margin-top: -410px;
+
+    &__h2 {
+        color: #FFF;
+        font-family: 'Montserrat';
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 140.4%;
+        /* 67.392px */
+        padding-top: 463px;
+        padding-left: 320px;
+
+    }
+
+    &__btn {
+        font-family: 'Montserrat';
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: -0.6px;
+        background-image: linear-gradient(#E246EF, #469EEF);
+        display: flex;
+        width: 261px;
+        height: 72px;
+        padding: 10px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-shrink: 0;
+        margin: 0 auto;
+        margin-top: 33px;
+        border-radius: 50px;
+        background: #FFF;
+    }
+}
